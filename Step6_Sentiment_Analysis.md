@@ -1,0 +1,1 @@
+For Sentiment Analysis in the table loaded in Redhsift, follow the steps in this [tutorial](https://aws.amazon.com/blogs/machine-learning/translate-and-analyze-text-using-sql-functions-with-amazon-redshift-amazon-translate-and-amazon-comprehend/). 
